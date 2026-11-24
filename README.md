@@ -9,7 +9,7 @@ A robot vacuum explains, in one deadpan line, why it missed a spot: it did not m
 ## Run it
 
 ```sh
-python3 main.py
+node main.ts
 ```
 
 ---
